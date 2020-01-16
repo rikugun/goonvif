@@ -6,6 +6,7 @@ require (
 	github.com/beevik/etree v1.1.0
 	github.com/elgs/gostrgen v0.0.0-20161222160715-9d61ae07eeae // indirect
 	github.com/gin-gonic/gin v1.5.0
+	github.com/rikugun/gosoap v0.0.0-20200107150725-9aba295364d6
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b // indirect
 	github.com/yakovlevdmv/Golang-iso8601-duration v0.0.0-20180403125811-e5db0413b903
 	github.com/yakovlevdmv/WS-Discovery v0.0.0-20180512141937-16170c6c3677
